@@ -1,4 +1,4 @@
-# 🐝 HeadlineHive  
+# HeadlineHive  
 ### Intelligent News Aggregator & Analyzer *(GenAI + NLP + Agentic AI)*
 
 > **HeadlineHive brings the buzz to your news!**  
