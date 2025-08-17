@@ -1,6 +1,4 @@
 # HeadlineHive - Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-
-HeadlineHive is a next-generation news intelligence platform that automatically collects and analyzes news and social media content in real time. It combines web scraping, natural language processing (NLP), Generative AI (GenAI), and autonomous agentic workflows to deliver deep insights, summaries, and trend analysis.
-
 HeadlineHive is a cutting-edge platform that automatically scrapes news websites and social media feeds, structuring collected data in both NoSQL and SQL databases. It performs thorough exploratory data analysis (EDA) and analyzes emerging trends using advanced natural language processing (NLP) techniques combined with Generative AI (GenAI) for intelligent summary generation.
 
 Leveraging agentic AI, HeadlineHive autonomously generates comprehensive reports and tracks topics over time without manual intervention. The system integrates data scraping, ETL (extract, transform, load) processes, sophisticated data modeling, and dashboard visualization to deliver actionable insights.
