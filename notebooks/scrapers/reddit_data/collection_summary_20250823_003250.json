@@ -1,0 +1,40 @@
+{
+  "collection_date": "2025-08-22 23:57:54",
+  "categories_collected": [
+    "Politics",
+    "Economy_Business_Finance",
+    "Science_Technology",
+    "Health",
+    "Sport",
+    "Arts_Culture_Entertainment_Media",
+    "Society",
+    "Human_Interest",
+    "Crime_Law_Justice",
+    "Disaster_Accident_Emergency",
+    "Environment",
+    "Education",
+    "Labour",
+    "Lifestyle_Leisure",
+    "Weather",
+    "Religion"
+  ],
+  "total_posts": 20976,
+  "files_created": [
+    "reddit_data/Politics_20250822_235911.json",
+    "reddit_data/Economy_Business_Finance_20250823_000119.json",
+    "reddit_data/Science_Technology_20250823_000331.json",
+    "reddit_data/Health_20250823_000541.json",
+    "reddit_data/Sport_20250823_000732.json",
+    "reddit_data/Arts_Culture_Entertainment_Media_20250823_000935.json",
+    "reddit_data/Society_20250823_001122.json",
+    "reddit_data/Human_Interest_20250823_001325.json",
+    "reddit_data/Crime_Law_Justice_20250823_001548.json",
+    "reddit_data/Disaster_Accident_Emergency_20250823_002100.json",
+    "reddit_data/Environment_20250823_002255.json",
+    "reddit_data/Education_20250823_002444.json",
+    "reddit_data/Labour_20250823_002638.json",
+    "reddit_data/Lifestyle_Leisure_20250823_002858.json",
+    "reddit_data/Weather_20250823_003040.json",
+    "reddit_data/Religion_20250823_003250.json"
+  ]
+}
