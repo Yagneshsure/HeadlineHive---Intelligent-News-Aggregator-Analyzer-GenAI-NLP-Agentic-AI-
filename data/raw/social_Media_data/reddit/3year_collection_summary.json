@@ -1,0 +1,43 @@
+{
+  "collection_date": "2025-08-24 14:11:13",
+  "target_timespan": "3 years",
+  "categories_collected": [
+    "Politics",
+    "Economy_Business_Finance",
+    "Science_Technology",
+    "Health",
+    "Sport",
+    "Arts_Culture_Entertainment_Media",
+    "Society",
+    "Human_Interest",
+    "Crime_Law_Justice",
+    "Conflict_War_Peace",
+    "Disaster_Accident_Emergency",
+    "Environment",
+    "Education",
+    "Labour",
+    "Lifestyle_Leisure",
+    "Weather",
+    "Religion"
+  ],
+  "total_posts": 222159,
+  "files_created": [
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Politics.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Economy_Business_Finance.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Science_Technology.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Health.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Sport.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Arts_Culture_Entertainment_Media.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Society.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Human_Interest.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Crime_Law_Justice.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Conflict_War_Peace.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Disaster_Accident_Emergency.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Environment.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Education.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Labour.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Lifestyle_Leisure.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Weather.json",
+    "C:\\Users\\yagne\\OneDrive\\Desktop\\project s\\Co-projects\\HeadlineHive-Intelligent-News-Aggregator-Analyzer-GenAI-NLP-Agentic-AI-\\data\\raw\\social_Media_data\\reddit\\Religion.json"
+  ]
+}
