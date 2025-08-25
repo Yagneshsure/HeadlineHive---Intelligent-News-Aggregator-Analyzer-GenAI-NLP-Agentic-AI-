@@ -26,7 +26,7 @@ HeadlineHive is a cutting-edge platform that automatically scrapes news websites
 
 **Core Technical Skills:**
 
-- Web scraping: BeautifulSoup, Scrapy, Playwright  
+- Web scraping: BeautifulSoup, Scrapy, Praw, SnsScrape  
 - Backend development: Python, FastAPI, Flask  
 - Databases: PostgreSQL, MySQL, MongoDB, Elasticsearch  
 - Data processing: pandas, NumPy  
