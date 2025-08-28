@@ -1,0 +1,16 @@
+### Scraping ###
+snscrape
+selenium
+requests
+beautifulsoup4
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+spacy
+openai
+tqdm
+pymongo
+sqlalchemy
